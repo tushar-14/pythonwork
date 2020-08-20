@@ -5,7 +5,7 @@ num2words = {1: 'one', 2: 'two', 3: 'three', 4: 'four', 5: 'five', \
             19: 'nineteen', 20: 'twenty', 30: 'thirty', 40: 'forty', \
             50: 'fifty', 60: 'sixty', 70: 'seventy', 80: 'eighty', \
             90: 'ninety', 0: 'zero',100:'hundred'}
-#mokvita
+#mokvita 2020
 def n2w(n):
     if n<21:
         return num2words[n]
